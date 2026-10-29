@@ -1,0 +1,27 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Athlete Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>🏃‍♂️ MY ATHLETE PROFILE</h1>
+
+  <h2>Drigaraj Prajapati</h2>
+
+  <p>Runner | Athlete | Future Champion</p>
+
+  <h3>🏃‍♂️ My Running</h3>
+  <p>Regular Distance: 10 KM</p>
+  <p>🏅 5 KM: 2nd Position</p>
+
+  <h3>🎯 My Goal</h3>
+  <p>To become a better athlete every day.</p>
+
+</body>
+</html>
